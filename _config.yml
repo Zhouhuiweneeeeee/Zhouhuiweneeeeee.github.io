@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+deploy:
+  type: git
+  repository: https://github.com/Zhouhuiweneeeeee/Zhouhuiweneeeeee.github.io.git
+  branch: master
